@@ -1,0 +1,2529 @@
+[
+	{
+		"team1": "Paris Eternal",
+		"team2": "Toronto Defiant",
+		"match-number": 1,
+		"date": "Feb. 8",
+		"title": "Paris Eternal vs. Toronto Defiant",
+		"time": "1 p.m.",
+		"place": "New York"
+	},
+	{
+		"team1": "New York Excelsior",
+		"team2": "London Spitfire",
+		"match-number": 2,
+		"date": "Feb. 8",
+		"title": "New York Excelsior vs. London Spitfire",
+		"time": "3 p.m.",
+		"place": "New York"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "L.A. Gladiators",
+		"match-number": 3,
+		"date": "Feb. 8",
+		"title": "Vancouver Titans vs. L.A. Gladiators",
+		"time": "4 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "L.A. Valiant",
+		"match-number": 4,
+		"date": "Feb. 8",
+		"title": "Dallas Fuel vs. L.A. Valiant",
+		"time": "6 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "London Spitfire",
+		"match-number": 5,
+		"date": "Feb. 9",
+		"title": "Paris Eternal vs. London Spitfire",
+		"time": "1 p.m.",
+		"place": "New York"
+	},
+	{
+		"team1": "New York Excelsior",
+		"team2": "Boston Uprising",
+		"match-number": 6,
+		"date": "Feb. 9",
+		"title": "New York Excelsior vs. Boston Uprising",
+		"time": "3 p.m.",
+		"place": "New York"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "L.A. Valiant",
+		"match-number": 7,
+		"date": "Feb. 9",
+		"title": "Vancouver Titans vs. L.A. Valiant",
+		"time": "4 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "S.F. Shock",
+		"match-number": 8,
+		"date": "Feb. 9",
+		"title": "Dallas Fuel vs. S.F. Shock",
+		"time": "6 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "Seoul Dynasty",
+		"match-number": 9,
+		"date": "Feb. 15",
+		"title": "Hangzhou Spark vs. Seoul Dynasty",
+		"time": "4 p.m.",
+		"place": "Shanghai"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "Chengdu Hunters",
+		"match-number": 10,
+		"date": "Feb. 15",
+		"title": "Shanghai Dragons vs. Chengdu Hunters",
+		"time": "6 p.m.",
+		"place": "Shanghai"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "Florida Mayhem",
+		"match-number": 11,
+		"date": "Feb. 15",
+		"title": "Houston Outlaws vs. Florida Mayhem",
+		"time": "4 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "Washington Justice",
+		"match-number": 12,
+		"date": "Feb. 15",
+		"title": "Philadelphia Fusion vs. Washington Justice",
+		"time": "6 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "Chengdu Hunters",
+		"match-number": 13,
+		"date": "Feb. 16",
+		"title": "Hangzhou Spark vs. Chengdu Hunters",
+		"time": "4 p.m.",
+		"place": "Shanghai"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "Seoul Dynasty",
+		"match-number": 14,
+		"date": "Feb. 16",
+		"title": "Shanghai Dragons vs. Seoul Dynasty",
+		"time": "6 p.m.",
+		"place": "Shanghai"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "Washington Justice",
+		"match-number": 15,
+		"date": "Feb. 16",
+		"title": "Houston Outlaws vs. Washington Justice",
+		"time": "4 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "Florida Mayhem",
+		"match-number": 16,
+		"date": "Feb. 16",
+		"title": "Philadelphia Fusion vs. Florida Mayhem",
+		"time": "6 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "L.A. Valiant",
+		"match-number": 17,
+		"date": "Feb. 22",
+		"title": "Seoul Dynasty vs. L.A. Valiant",
+		"time": "2 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "L.A. Gladiators",
+		"match-number": 18,
+		"date": "Feb. 22",
+		"title": "Shanghai Dragons vs. L.A. Gladiators",
+		"time": "4 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "San Francisco Shock",
+		"match-number": 19,
+		"date": "Feb. 22",
+		"title": "Guangzhou Charge vs. San Francisco Shock",
+		"time": "6 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "New York Excelsior",
+		"match-number": 20,
+		"date": "Feb. 22",
+		"title": "Philadelphia Fusion vs. New York Excelsior",
+		"time": "3 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "Boston Uprising",
+		"match-number": 21,
+		"date": "Feb. 22",
+		"title": "Houston Outlaws vs. Boston Uprising",
+		"time": "5 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "Paris Eternal",
+		"match-number": 22,
+		"date": "Feb. 22",
+		"title": "Washington Justice vs. Paris Eternal",
+		"time": "7 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "L.A. Valiant",
+		"match-number": 23,
+		"date": "Feb. 23",
+		"title": "Chengdu Hunters vs. L.A. Valiant",
+		"time": "2 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "S.F. Shock",
+		"match-number": 24,
+		"date": "Feb. 23",
+		"title": "Shanghai Dragons vs. S.F. Shock",
+		"time": "4 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "L.A. Gladiators",
+		"match-number": 25,
+		"date": "Feb. 23",
+		"title": "Guangzhou Charge vs. L.A. Gladiators",
+		"time": "6 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "New York Excelsior",
+		"match-number": 26,
+		"date": "Feb. 23",
+		"title": "Houston Outlaws vs. New York Excelsior",
+		"time": "3 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "Toronto Defiant",
+		"match-number": 27,
+		"date": "Feb. 23",
+		"title": "Philadelphia Fusion vs. Toronto Defiant",
+		"time": "5 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "London Spitfire",
+		"match-number": 28,
+		"date": "Feb. 23",
+		"title": "Washington Justice vs. London Spitfire",
+		"time": "7 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "Dallas Fuel",
+		"match-number": 29,
+		"date": "Feb. 29",
+		"title": "Seoul Dynasty vs. Dallas Fuel",
+		"time": "12 p.m.",
+		"place": "Hangzhou"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "Vancouver Titans",
+		"match-number": 30,
+		"date": "Feb. 29",
+		"title": "Shanghai Dragons vs. Vancouver Titans",
+		"time": "2 p.m.",
+		"place": "Hangzhou"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "S.F. Shock",
+		"match-number": 31,
+		"date": "Feb. 29",
+		"title": "Chengdu Hunters vs. S.F. Shock",
+		"time": "4 p.m.",
+		"place": "Hangzhou"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "L.A. Gladiators",
+		"match-number": 32,
+		"date": "Feb. 29",
+		"title": "Hangzhou Spark vs. L.A. Gladiators",
+		"time": "6 p.m.",
+		"place": "Hangzhou"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "New York Excelsior",
+		"match-number": 33,
+		"date": "Feb. 29",
+		"title": "Florida Mayhem vs. New York Excelsior",
+		"time": "2 p.m.",
+		"place": "Houston"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "Toronto Defiant",
+		"match-number": 34,
+		"date": "Feb. 29",
+		"title": "Atlanta Reign vs. Toronto Defiant",
+		"time": "4 p.m.",
+		"place": "Houston"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "London Spitfire",
+		"match-number": 35,
+		"date": "Feb. 29",
+		"title": "Houston Outlaws vs. London Spitfire",
+		"time": "6 p.m.",
+		"place": "Houston"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "Vancouver Titans",
+		"match-number": 36,
+		"date": "March 1",
+		"title": "Seoul Dynasty vs. Vancouver Titans",
+		"time": "2 p.m.",
+		"place": "Hangzhou"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "L.A. Valiant",
+		"match-number": 37,
+		"date": "March 1",
+		"title": "Shanghai Dragons vs. L.A. Valiant",
+		"time": "4 p.m.",
+		"place": "Hangzhou"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "Dallas Fuel",
+		"match-number": 38,
+		"date": "March 1",
+		"title": "Hangzhou Spark vs. Dallas Fuel",
+		"time": "6 p.m.",
+		"place": "Hangzhou"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "Boston Uprising",
+		"match-number": 39,
+		"date": "March 1",
+		"title": "Philadelphia Fusion vs. Boston Uprising",
+		"time": "12 p.m.",
+		"place": "Houston"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "Paris Eternal",
+		"match-number": 40,
+		"date": "March 1",
+		"title": "Atlanta Reign vs. Paris Eternal",
+		"time": "2 p.m.",
+		"place": "Houston"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "London Spitfire",
+		"match-number": 41,
+		"date": "March 1",
+		"title": "Florida Mayhem vs. London Spitfire",
+		"time": "4 p.m.",
+		"place": "Houston"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "Toronto Defiant",
+		"match-number": 42,
+		"date": "March 1",
+		"title": "Houston Outlaws vs. Toronto Defiant",
+		"time": "6 p.m.",
+		"place": "Houston"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "San Francisco Shock",
+		"match-number": 43,
+		"date": "March 7",
+		"title": "Hangzhou Spark vs. San Francisco Shock",
+		"time": "3 p.m.",
+		"place": "Seoul"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "Dallas Fuel",
+		"match-number": 44,
+		"date": "March 7",
+		"title": "Chengdu Hunters vs. Dallas Fuel",
+		"time": "5 p.m.",
+		"place": "Seoul"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "L.A. Gladiators",
+		"match-number": 45,
+		"date": "March 7",
+		"title": "Seoul Dynasty vs. L.A. Gladiators",
+		"time": "7 p.m.",
+		"place": "Seoul"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "Toronto Defiant",
+		"match-number": 46,
+		"date": "March 7",
+		"title": "Florida Mayhem vs. Toronto Defiant",
+		"time": "3 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "Paris Eternal",
+		"match-number": 47,
+		"date": "March 7",
+		"title": "Houston Outlaws vs. Paris Eternal",
+		"time": "5 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "Boston Uprising",
+		"match-number": 48,
+		"date": "March 7",
+		"title": "Washington Justice vs. Boston Uprising",
+		"time": "7 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "Vancouver Titans",
+		"match-number": 49,
+		"date": "March 8",
+		"title": "Guangzhou Charge vs. Vancouver Titans",
+		"time": "2 p.m.",
+		"place": "Seoul"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "L.A. Gladiators",
+		"match-number": 50,
+		"date": "March 8",
+		"title": "Chengdu Hunters vs. L.A. Gladiators",
+		"time": "4 p.m.",
+		"place": "Seoul"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "S.F. Shock",
+		"match-number": 51,
+		"date": "March 8",
+		"title": "Seoul Dynasty vs. S.F. Shock",
+		"time": "6 p.m.",
+		"place": "Seoul"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "Paris Eternal",
+		"match-number": 52,
+		"date": "March 8",
+		"title": "Philadelphia Fusion vs. Paris Eternal",
+		"time": "3 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "Boston Uprising",
+		"match-number": 53,
+		"date": "March 8",
+		"title": "Atlanta Reign vs. Boston Uprising",
+		"time": "5 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "N.Y. Excelsior",
+		"match-number": 54,
+		"date": "March 8",
+		"title": "Washington Justice vs. N.Y. Excelsior",
+		"time": "7 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "L.A. Valiant",
+		"match-number": 55,
+		"date": "March 14",
+		"title": "Hangzhou Spark vs. L.A. Valiant",
+		"time": "3 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "Vancouver Titans",
+		"match-number": 56,
+		"date": "March 14",
+		"title": "Chengdu Hunters vs. Vancouver Titans",
+		"time": "5 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "Dallas Fuel",
+		"match-number": 57,
+		"date": "March 14",
+		"title": "Guangzhou Charge vs. Dallas Fuel",
+		"time": "7 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "New York Excelsior",
+		"match-number": 58,
+		"date": "March 14",
+		"title": "Atlanta Reign vs. New York Excelsior",
+		"time": "2 p.m.",
+		"place": "Florida"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "London Spitfire",
+		"match-number": 59,
+		"date": "March 14",
+		"title": "Philadelphia Fusion vs. London Spitfire",
+		"time": "4 p.m.",
+		"place": "Florida"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "Paris Eternal",
+		"match-number": 60,
+		"date": "March 14",
+		"title": "Florida Mayhem vs. Paris Eternal",
+		"time": "6 p.m.",
+		"place": "Florida"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "Dallas Fuel",
+		"match-number": 61,
+		"date": "March 15",
+		"title": "Shanghai Dragons vs. Dallas Fuel",
+		"time": "3 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "Vancouver Titans",
+		"match-number": 62,
+		"date": "March 15",
+		"title": "Hangzhou Spark vs. Vancouver Titans",
+		"time": "5 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "L.A. Valiant",
+		"match-number": 63,
+		"date": "March 15",
+		"title": "Guangzhou Charge vs. L.A. Valiant",
+		"time": "7 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "Toronto Defiant",
+		"match-number": 64,
+		"date": "March 15",
+		"title": "Washington Justice vs. Toronto Defiant",
+		"time": "2 p.m.",
+		"place": "Florida"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "London Spitfire",
+		"match-number": 65,
+		"date": "March 15",
+		"title": "Atlanta Reign vs. London Spitfire",
+		"time": "4 p.m.",
+		"place": "Florida"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "Boston Uprising",
+		"match-number": 66,
+		"date": "March 15",
+		"title": "Florida Mayhem vs. Boston Uprising",
+		"time": "6 p.m.",
+		"place": "Florida"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "Seoul Dynasty",
+		"match-number": 67,
+		"date": "March 21",
+		"title": "Chengdu Hunters vs. Seoul Dynasty",
+		"time": "3 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "Hangzhou Spark",
+		"match-number": 68,
+		"date": "March 21",
+		"title": "Guangzhou Charge vs. Hangzhou Spark",
+		"time": "5 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "Philadelphia Fusion",
+		"match-number": 69,
+		"date": "March 21",
+		"title": "Washington Justice vs. Philadelphia Fusion",
+		"time": "4 p.m.",
+		"place": "Atlanta"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "Florida Mayhem",
+		"match-number": 70,
+		"date": "March 21",
+		"title": "Atlanta Reign vs. Florida Mayhem",
+		"time": "6 p.m.",
+		"place": "Atlanta"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "Shanghai Dragons",
+		"match-number": 71,
+		"date": "March 22",
+		"title": "Chengdu Hunters vs. Shanghai Dragons",
+		"time": "3 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "Seoul Dynasty",
+		"match-number": 72,
+		"date": "March 22",
+		"title": "Guangzhou Charge vs. Seoul Dynasty",
+		"time": "5 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "Florida Mayhem",
+		"match-number": 73,
+		"date": "March 22",
+		"title": "Washington Justice vs. Florida Mayhem",
+		"time": "4 p.m.",
+		"place": "Atlanta"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "Philadelphia Fusion",
+		"match-number": 74,
+		"date": "March 22",
+		"title": "Atlanta Reign vs. Philadelphia Fusion",
+		"time": "6 p.m.",
+		"place": "Atlanta"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "Toronto Defiant",
+		"match-number": 75,
+		"date": "March 28",
+		"title": "Boston Uprising vs. Toronto Defiant",
+		"time": "3 p.m.",
+		"place": "London"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "Paris Eternal",
+		"match-number": 76,
+		"date": "March 28",
+		"title": "London Spitfire vs. Paris Eternal",
+		"time": "5 p.m.",
+		"place": "London"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "Vancouver Titans",
+		"match-number": 77,
+		"date": "March 28",
+		"title": "Dallas Fuel vs. Vancouver Titans",
+		"time": "3 p.m.",
+		"place": "San Francisco"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "L.A. Gladiators",
+		"match-number": 78,
+		"date": "March 28",
+		"title": "S.F. Shock vs. L.A. Gladiators",
+		"time": "5 p.m.",
+		"place": "San Francisco"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "New York Excelsior",
+		"match-number": 79,
+		"date": "March 29",
+		"title": "Boston Uprising vs. New York Excelsior",
+		"time": "3 p.m.",
+		"place": "London"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "Toronto Defiant",
+		"match-number": 80,
+		"date": "March 29",
+		"title": "London Spitfire vs. Toronto Defiant",
+		"time": "5 p.m.",
+		"place": "London"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "L.A. Gladiators",
+		"match-number": 81,
+		"date": "March 29",
+		"title": "Dallas Fuel vs. L.A. Gladiators",
+		"time": "3 p.m.",
+		"place": "San Francisco"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "L.A. Valiant",
+		"match-number": 82,
+		"date": "March 29",
+		"title": "S.F. Shock vs. L.A. Valiant",
+		"time": "5 p.m.",
+		"place": "San Francisco"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "Houston Outlaws",
+		"match-number": 83,
+		"date": "April 4",
+		"title": "Paris Eternal vs. Houston Outlaws",
+		"time": "11 a.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "New York Excelsior",
+		"team2": "Atlanta Reign",
+		"match-number": 84,
+		"date": "April 4",
+		"title": "New York Excelsior vs. Atlanta Reign",
+		"time": "1 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "Washington Justice",
+		"match-number": 85,
+		"date": "April 4",
+		"title": "London Spitfire vs. Washington Justice",
+		"time": "3 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "Seoul Dynasty",
+		"match-number": 86,
+		"date": "April 4",
+		"title": "Vancouver Titans vs. Seoul Dynasty",
+		"time": "4 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "Hangzhou Spark",
+		"match-number": 87,
+		"date": "April 4",
+		"title": "S.F. Shock vs. Hangzhou Spark",
+		"time": "6 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "Chengdu Hunters",
+		"match-number": 88,
+		"date": "April 4",
+		"title": "Dallas Fuel vs. Chengdu Hunters",
+		"time": "8 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "N.Y. Excelsior",
+		"team2": "Houston Outlaws",
+		"match-number": 89,
+		"date": "April 5",
+		"title": "N.Y. Excelsior vs. Houston Outlaws",
+		"time": "11 a.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "Philadelphia Fusion",
+		"match-number": 90,
+		"date": "April 5",
+		"title": "Toronto Defiant vs. Philadelphia Fusion",
+		"time": "1 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "Washington Justice",
+		"match-number": 91,
+		"date": "April 5",
+		"title": "Paris Eternal vs. Washington Justice",
+		"time": "3 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "Guangzhou Charge",
+		"match-number": 92,
+		"date": "April 5",
+		"title": "Vancouver Titans vs. Guangzhou Charge",
+		"time": "4 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "Chengdu Hunters",
+		"match-number": 93,
+		"date": "April 5",
+		"title": "S.F. Shock vs. Chengdu Hunters",
+		"time": "6 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "Hangzhou Spark",
+		"match-number": 94,
+		"date": "April 5",
+		"title": "Dallas Fuel vs. Hangzhou Spark",
+		"time": "8 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "Florida Mayhem",
+		"match-number": 95,
+		"date": "April 11",
+		"title": "Toronto Defiant vs. Florida Mayhem",
+		"time": "1 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "N.Y. Excelsior",
+		"team2": "Philadelphia Fusion",
+		"match-number": 96,
+		"date": "April 11",
+		"title": "N.Y. Excelsior vs. Philadelphia Fusion",
+		"time": "3 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "Houston Outlaws",
+		"match-number": 97,
+		"date": "April 11",
+		"title": "Boston Uprising vs. Houston Outlaws",
+		"time": "5 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "Atlanta Reign",
+		"match-number": 98,
+		"date": "April 11",
+		"title": "Paris Eternal vs. Atlanta Reign",
+		"time": "7 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "Guangzhou Charge",
+		"match-number": 99,
+		"date": "April 11",
+		"title": "S.F. Shock vs. Guangzhou Charge",
+		"time": "TBD",
+		"place": "TBD"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "Chengdu Hunters",
+		"match-number": 100,
+		"date": "April 11",
+		"title": "Vancouver Titans vs. Chengdu Hunters",
+		"time": "TBD",
+		"place": "TBD"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "Hangzhou Spark",
+		"match-number": 101,
+		"date": "April 11",
+		"title": "L.A. Gladiators vs. Hangzhou Spark",
+		"time": "TBD",
+		"place": "TBD"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "Atlanta Reign",
+		"match-number": 102,
+		"date": "April 12",
+		"title": "Boston Uprising vs. Atlanta Reign",
+		"time": "3 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "Houston Outlaws",
+		"match-number": 103,
+		"date": "April 12",
+		"title": "Toronto Defiant vs. Houston Outlaws",
+		"time": "5 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "Philadelphia Fusion",
+		"match-number": 104,
+		"date": "April 12",
+		"title": "Paris Eternal vs. Philadelphia Fusion",
+		"time": "7 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "Shanghai Dragons",
+		"match-number": 105,
+		"date": "April 12",
+		"title": "Vancouver Titans vs. Shanghai Dragons",
+		"time": "TBD",
+		"place": "TBD"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "Seoul Dynasty",
+		"match-number": 106,
+		"date": "April 12",
+		"title": "S.F. Shock vs. Seoul Dynasty",
+		"time": "TBD",
+		"place": "TBD"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "Chengdu Hunters",
+		"match-number": 107,
+		"date": "April 12",
+		"title": "L.A. Valiant vs. Chengdu Hunters",
+		"time": "TBD",
+		"place": "TBD"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "Guangzhou Charge",
+		"match-number": 108,
+		"date": "April 12",
+		"title": "L.A. Gladiators vs. Guangzhou Charge",
+		"time": "TBD",
+		"place": "TBD"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "Florida Mayhem",
+		"match-number": 109,
+		"date": "April 18",
+		"title": "Paris Eternal vs. Florida Mayhem",
+		"time": "12 p.m.",
+		"place": "Toronto"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "Philadelphia Fusion",
+		"match-number": 110,
+		"date": "April 18",
+		"title": "London Spitfire vs. Philadelphia Fusion",
+		"time": "2 p.m.",
+		"place": "Toronto"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "Atlanta Reign",
+		"match-number": 111,
+		"date": "April 18",
+		"title": "Toronto Defiant vs. Atlanta Reign",
+		"time": "4 p.m.",
+		"place": "Toronto"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "Shanghai Dragons",
+		"match-number": 112,
+		"date": "April 18",
+		"title": "L.A. Gladiators vs. Shanghai Dragons",
+		"time": "3 p.m.",
+		"place": "L.A. Valiant"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "Seoul Dynasty",
+		"match-number": 113,
+		"date": "April 18",
+		"title": "Dallas Fuel vs. Seoul Dynasty",
+		"time": "5 p.m.",
+		"place": "L.A. Valiant"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "Hangzhou Spark",
+		"match-number": 114,
+		"date": "April 18",
+		"title": "L.A. Valiant vs. Hangzhou Spark",
+		"time": "7 p.m.",
+		"place": "L.A. Valiant"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "Florida Mayhem",
+		"match-number": 115,
+		"date": "April 19",
+		"title": "Boston Uprising vs. Florida Mayhem",
+		"time": "12 p.m.",
+		"place": "Toronto"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "Atlanta Reign",
+		"match-number": 116,
+		"date": "April 19",
+		"title": "London Spitfire vs. Atlanta Reign",
+		"time": "2 p.m.",
+		"place": "Toronto"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "Washington Justice",
+		"match-number": 117,
+		"date": "April 19",
+		"title": "Toronto Defiant vs. Washington Justice",
+		"time": "4 p.m.",
+		"place": "Toronto"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "Chengdu Hunters",
+		"match-number": 118,
+		"date": "April 19",
+		"title": "L.A. Gladiators vs. Chengdu Hunters",
+		"time": "3 p.m.",
+		"place": "L.A. Valiant"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "Shanghai Dragons",
+		"match-number": 119,
+		"date": "April 19",
+		"title": "L.A. Valiant vs. Shanghai Dragons",
+		"time": "5 p.m.",
+		"place": "L.A. Valiant"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "Hangzhou Spark",
+		"match-number": 120,
+		"date": "April 19",
+		"title": "Vancouver Titans vs. Hangzhou Spark",
+		"time": "7 p.m.",
+		"place": "L.A. Valiant"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "Houston Outlaws",
+		"match-number": 121,
+		"date": "April 25",
+		"title": "London Spitfire vs. Houston Outlaws",
+		"time": "11 a.m.",
+		"place": "Boston"
+	},
+	{
+		"team1": "New York Excelsior",
+		"team2": "Florida Mayhem",
+		"match-number": 122,
+		"date": "April 25",
+		"title": "New York Excelsior vs. Florida Mayhem",
+		"time": "1 p.m.",
+		"place": "Boston"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "Washington Justice",
+		"match-number": 123,
+		"date": "April 25",
+		"title": "Boston Uprising vs. Washington Justice",
+		"time": "3 p.m.",
+		"place": "Boston"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "Shanghai Dragons",
+		"match-number": 124,
+		"date": "April 25",
+		"title": "S.F. Shock vs. Shanghai Dragons",
+		"time": "4 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "Seoul Dynasty",
+		"match-number": 125,
+		"date": "April 25",
+		"title": "L.A. Valiant vs. Seoul Dynasty",
+		"time": "6 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "Guangzhou Charge",
+		"match-number": 126,
+		"date": "April 25",
+		"title": "Dallas Fuel vs. Guangzhou Charge",
+		"time": "8 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "N.Y. Excelsior",
+		"team2": "Washington Justice",
+		"match-number": 127,
+		"date": "April 26",
+		"title": "N.Y. Excelsior vs. Washington Justice",
+		"time": "11 a.m.",
+		"place": "Boston"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "Florida Mayhem",
+		"match-number": 128,
+		"date": "April 26",
+		"title": "London Spitfire vs. Florida Mayhem",
+		"time": "1 p.m.",
+		"place": "Boston"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "Philadelphia Fusion",
+		"match-number": 129,
+		"date": "April 26",
+		"title": "Boston Uprising vs. Philadelphia Fusion",
+		"time": "3 p.m.",
+		"place": "Boston"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "Seoul Dynasty",
+		"match-number": 130,
+		"date": "April 26",
+		"title": "L.A. Gladiators vs. Seoul Dynasty",
+		"time": "4 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "Guangzhou Charge",
+		"match-number": 131,
+		"date": "April 26",
+		"title": "L.A. Valiant vs. Guangzhou Charge",
+		"time": "6 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "Shanghai Dragons",
+		"match-number": 132,
+		"date": "April 26",
+		"title": "Dallas Fuel vs. Shanghai Dragons",
+		"time": "8 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"match-number": 133,
+		"date": "TBD",
+		"title": "All-Star Break",
+		"time": "TBD",
+		"place": "TBD"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "Shanghai Dragons",
+		"match-number": 134,
+		"date": "May 9",
+		"title": "Guangzhou Charge vs. Shanghai Dragons",
+		"time": "4 p.m.",
+		"place": "Seoul"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "Chengdu Hunters",
+		"match-number": 135,
+		"date": "May 9",
+		"title": "Seoul Dynasty vs. Chengdu Hunters",
+		"time": "6 p.m.",
+		"place": "Seoul"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "Boston Uprising",
+		"match-number": 136,
+		"date": "May 9",
+		"title": "Toronto Defiant vs. Boston Uprising",
+		"time": "5 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "New York Excelsior",
+		"match-number": 137,
+		"date": "May 9",
+		"title": "Paris Eternal vs. New York Excelsior",
+		"time": "7 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "Chengdu Hunters",
+		"match-number": 138,
+		"date": "May 10",
+		"title": "Guangzhou Charge vs. Chengdu Hunters",
+		"time": "4 p.m.",
+		"place": "Seoul"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "Hangzhou Spark",
+		"match-number": 139,
+		"date": "May 10",
+		"title": "Seoul Dynasty vs. Hangzhou Spark",
+		"time": "6 p.m.",
+		"place": "Seoul"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "London Spitfire",
+		"match-number": 140,
+		"date": "May 10",
+		"title": "Toronto Defiant vs. London Spitfire",
+		"time": "5 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "Boston Uprising",
+		"match-number": 141,
+		"date": "May 10",
+		"title": "Paris Eternal vs. Boston Uprising",
+		"time": "7 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "Washington Justice",
+		"match-number": 142,
+		"date": "May 16",
+		"title": "Atlanta Reign vs. Washington Justice",
+		"time": "4 p.m.",
+		"place": "Florida"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "Houston Outlaws",
+		"match-number": 143,
+		"date": "May 16",
+		"title": "Florida Mayhem vs. Houston Outlaws",
+		"time": "6 p.m.",
+		"place": "Florida"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "S.F. Shock",
+		"match-number": 144,
+		"date": "May 16",
+		"title": "L.A. Valiant vs. S.F. Shock",
+		"time": "5 p.m.",
+		"place": "Vancouver"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "Dallas Fuel",
+		"match-number": 145,
+		"date": "May 16",
+		"title": "Vancouver Titans vs. Dallas Fuel",
+		"time": "7 p.m.",
+		"place": "Vancouver"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "Houston Outlaws",
+		"match-number": 146,
+		"date": "May 17",
+		"title": "Atlanta Reign vs. Houston Outlaws",
+		"time": "3 p.m.",
+		"place": "Florida"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "Philadelphia Fusion",
+		"match-number": 147,
+		"date": "May 17",
+		"title": "Florida Mayhem vs. Philadelphia Fusion",
+		"time": "5 p.m.",
+		"place": "Florida"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "Dallas Fuel",
+		"match-number": 148,
+		"date": "May 17",
+		"title": "L.A. Gladiators vs. Dallas Fuel",
+		"time": "4 p.m.",
+		"place": "Vancouver"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "S.F. Shock",
+		"match-number": 149,
+		"date": "May 17",
+		"title": "Vancouver Titans vs. S.F. Shock",
+		"time": "6 p.m.",
+		"place": "Vancouver"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "Seoul Dynasty",
+		"match-number": 150,
+		"date": "May 23",
+		"title": "Houston Outlaws vs. Seoul Dynasty",
+		"time": "11 a.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "Hangzhou Spark",
+		"match-number": 151,
+		"date": "May 23",
+		"title": "Washington Justice vs. Hangzhou Spark",
+		"time": "1 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "Chengdu Hunters",
+		"match-number": 152,
+		"date": "May 23",
+		"title": "Philadelphia Fusion vs. Chengdu Hunters",
+		"time": "3 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "Vancouver Titans",
+		"match-number": 153,
+		"date": "May 23",
+		"title": "Boston Uprising vs. Vancouver Titans",
+		"time": "4 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "New York Excelsior",
+		"team2": "L.A. Valiant",
+		"match-number": 154,
+		"date": "May 23",
+		"title": "New York Excelsior vs. L.A. Valiant",
+		"time": "6 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "Dallas Fuel",
+		"match-number": 155,
+		"date": "May 23",
+		"title": "London Spitfire vs. Dallas Fuel",
+		"time": "8 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "Hangzhou Spark",
+		"match-number": 156,
+		"date": "May 24",
+		"title": "Houston Outlaws vs. Hangzhou Spark",
+		"time": "11 a.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "Chengdu Hunters",
+		"match-number": 157,
+		"date": "May 24",
+		"title": "Atlanta Reign vs. Chengdu Hunters",
+		"time": "1 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "Seoul Dynasty",
+		"match-number": 158,
+		"date": "May 24",
+		"title": "Philadelphia Fusion vs. Seoul Dynasty",
+		"time": "3 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "New York Excelsior",
+		"team2": "Vancouver Titans",
+		"match-number": 159,
+		"date": "May 24",
+		"title": "New York Excelsior vs. Vancouver Titans",
+		"time": "4 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "S.F. Shock",
+		"match-number": 160,
+		"date": "May 24",
+		"title": "Boston Uprising vs. S.F. Shock",
+		"time": "6 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "Dallas Fuel",
+		"match-number": 161,
+		"date": "May 24",
+		"title": "Toronto Defiant vs. Dallas Fuel",
+		"time": "8 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "Shanghai Dragons",
+		"match-number": 162,
+		"date": "May 30",
+		"title": "Florida Mayhem vs. Shanghai Dragons",
+		"time": "11 a.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "Chengdu Hunters",
+		"match-number": 163,
+		"date": "May 30",
+		"title": "Houston Outlaws vs. Chengdu Hunters",
+		"time": "1 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "Seoul Dynasty",
+		"match-number": 164,
+		"date": "May 30",
+		"title": "Washington Justice vs. Seoul Dynasty",
+		"time": "3 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "Dallas Fuel",
+		"match-number": 165,
+		"date": "May 30",
+		"title": "Paris Eternal vs. Dallas Fuel",
+		"time": "5 p.m.",
+		"place": "New York"
+	},
+	{
+		"team1": "New York Excelsior",
+		"team2": "L.A. Gladiators",
+		"match-number": 166,
+		"date": "May 30",
+		"title": "New York Excelsior vs. L.A. Gladiators",
+		"time": "7 p.m.",
+		"place": "New York"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "S.F. Shock",
+		"match-number": 167,
+		"date": "May 30",
+		"title": "Toronto Defiant vs. S.F. Shock",
+		"time": "9 p.m.",
+		"place": "New York"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "Shanghai Dragons",
+		"match-number": 168,
+		"date": "May 31",
+		"title": "Philadelphia Fusion vs. Shanghai Dragons",
+		"time": "11 a.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "Hangzhou Spark",
+		"match-number": 169,
+		"date": "May 31",
+		"title": "Atlanta Reign vs. Hangzhou Spark",
+		"time": "1 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "Guangzhou Charge",
+		"match-number": 170,
+		"date": "May 31",
+		"title": "Washington Justice vs. Guangzhou Charge",
+		"time": "3 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "Vancouver Titans",
+		"match-number": 171,
+		"date": "May 31",
+		"title": "Paris Eternal vs. Vancouver Titans",
+		"time": "5 p.m.",
+		"place": "New York"
+	},
+	{
+		"team1": "New York Excelsior",
+		"team2": "Dallas Fuel",
+		"match-number": 172,
+		"date": "May 31",
+		"title": "New York Excelsior vs. Dallas Fuel",
+		"time": "7 p.m.",
+		"place": "New York"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "L.A. Valiant",
+		"match-number": 173,
+		"date": "May 31",
+		"title": "Toronto Defiant vs. L.A. Valiant",
+		"time": "9 p.m.",
+		"place": "New York"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "L.A. Gladiators",
+		"match-number": 174,
+		"date": "June 6",
+		"title": "Toronto Defiant vs. L.A. Gladiators",
+		"time": "12 p.m.",
+		"place": "London"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "L.A. Valiant",
+		"match-number": 175,
+		"date": "June 6",
+		"title": "Paris Eternal vs. L.A. Valiant",
+		"time": "2 p.m.",
+		"place": "London"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "S.F. Shock",
+		"match-number": 176,
+		"date": "June 6",
+		"title": "London Spitfire vs. S.F. Shock",
+		"time": "4 p.m.",
+		"place": "London"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "Guangzhou Charge",
+		"match-number": 177,
+		"date": "June 6",
+		"title": "Atlanta Reign vs. Guangzhou Charge",
+		"time": "1 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "Shanghai Dragons",
+		"match-number": 178,
+		"date": "June 6",
+		"title": "Washington Justice vs. Shanghai Dragons",
+		"time": "3 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "Chengdu Hunters",
+		"match-number": 179,
+		"date": "June 6",
+		"title": "Florida Mayhem vs. Chengdu Hunters",
+		"time": "5 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "Hangzhou Spark",
+		"match-number": 180,
+		"date": "June 6",
+		"title": "Philadelphia Fusion vs. Hangzhou Spark",
+		"time": "7 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "Vancouver Titans",
+		"match-number": 181,
+		"date": "June 7",
+		"title": "Toronto Defiant vs. Vancouver Titans",
+		"time": "12 p.m.",
+		"place": "London"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "L.A. Valiant",
+		"match-number": 182,
+		"date": "June 7",
+		"title": "Boston Uprising vs. L.A. Valiant",
+		"time": "2 p.m.",
+		"place": "London"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "L.A. Gladiators",
+		"match-number": 183,
+		"date": "June 7",
+		"title": "London Spitfire vs. L.A. Gladiators",
+		"time": "4 p.m.",
+		"place": "London"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "Seoul Dynasty",
+		"match-number": 184,
+		"date": "June 7",
+		"title": "Florida Mayhem vs. Seoul Dynasty",
+		"time": "3 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "Chengdu Hunters",
+		"match-number": 185,
+		"date": "June 7",
+		"title": "Washington Justice vs. Chengdu Hunters",
+		"time": "5 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "Guangzhou Charge",
+		"match-number": 186,
+		"date": "June 7",
+		"title": "Philadelphia Fusion vs. Guangzhou Charge",
+		"time": "7 p.m.",
+		"place": "Philadelphia"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "L.A. Valiant",
+		"match-number": 187,
+		"date": "June 13",
+		"title": "London Spitfire vs. L.A. Valiant",
+		"time": "1 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "N.Y. Excelsior",
+		"team2": "S.F. Shock",
+		"match-number": 188,
+		"date": "June 13",
+		"title": "N.Y. Excelsior vs. S.F. Shock",
+		"time": "3 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "Dallas Fuel",
+		"match-number": 189,
+		"date": "June 13",
+		"title": "Boston Uprising vs. Dallas Fuel",
+		"time": "5 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "L.A. Gladiators",
+		"match-number": 190,
+		"date": "June 13",
+		"title": "Paris Eternal vs. L.A. Gladiators",
+		"time": "7 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "Hangzhou Spark",
+		"match-number": 191,
+		"date": "June 13",
+		"title": "Florida Mayhem vs. Hangzhou Spark",
+		"time": "3 p.m.",
+		"place": "Atlanta"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "Guangzhou Charge",
+		"match-number": 192,
+		"date": "June 13",
+		"title": "Houston Outlaws vs. Guangzhou Charge",
+		"time": "5 p.m.",
+		"place": "Atlanta"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "Shanghai Dragons",
+		"match-number": 193,
+		"date": "June 13",
+		"title": "Atlanta Reign vs. Shanghai Dragons",
+		"time": "7 p.m.",
+		"place": "Atlanta"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "Vancouver Titans",
+		"match-number": 194,
+		"date": "June 14",
+		"title": "London Spitfire vs. Vancouver Titans",
+		"time": "3 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "L.A. Gladiators",
+		"match-number": 195,
+		"date": "June 14",
+		"title": "Boston Uprising vs. L.A. Gladiators",
+		"time": "5 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Paris Eternal",
+		"team2": "S.F. Shock",
+		"match-number": 196,
+		"date": "June 14",
+		"title": "Paris Eternal vs. S.F. Shock",
+		"time": "7 p.m.",
+		"place": "Paris"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "Shanghai Dragons",
+		"match-number": 197,
+		"date": "June 14",
+		"title": "Houston Outlaws vs. Shanghai Dragons",
+		"time": "3 p.m.",
+		"place": "Atlanta"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "Guangzhou Charge",
+		"match-number": 198,
+		"date": "June 14",
+		"title": "Florida Mayhem vs. Guangzhou Charge",
+		"time": "5 p.m.",
+		"place": "Atlanta"
+	},
+	{
+		"team1": "Atlanta Reign",
+		"team2": "Seoul Dynasty",
+		"match-number": 199,
+		"date": "June 14",
+		"title": "Atlanta Reign vs. Seoul Dynasty",
+		"time": "7 p.m.",
+		"place": "Atlanta"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "Shanghai Dragons",
+		"match-number": 200,
+		"date": "June 20",
+		"title": "Seoul Dynasty vs. Shanghai Dragons",
+		"time": "3 p.m.",
+		"place": "Hangzhou"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "Guangzhou Charge",
+		"match-number": 201,
+		"date": "June 20",
+		"title": "Hangzhou Spark vs. Guangzhou Charge",
+		"time": "5 p.m.",
+		"place": "Hangzhou"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "Houston Outlaws",
+		"match-number": 202,
+		"date": "June 20",
+		"title": "Philadelphia Fusion vs. Houston Outlaws",
+		"time": "5 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "Atlanta Reign",
+		"match-number": 203,
+		"date": "June 20",
+		"title": "Washington Justice vs. Atlanta Reign",
+		"time": "7 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "Guangzhou Charge",
+		"match-number": 204,
+		"date": "June 21",
+		"title": "Seoul Dynasty vs. Guangzhou Charge",
+		"time": "3 p.m.",
+		"place": "Hangzhou"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "Shanghai Dragons",
+		"match-number": 205,
+		"date": "June 21",
+		"title": "Hangzhou Spark vs. Shanghai Dragons",
+		"time": "5 p.m.",
+		"place": "Hangzhou"
+	},
+	{
+		"team1": "Philadelphia Fusion",
+		"team2": "Atlanta Reign",
+		"match-number": 206,
+		"date": "June 21",
+		"title": "Philadelphia Fusion vs. Atlanta Reign",
+		"time": "5 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "Washington Justice",
+		"team2": "Houston Outlaws",
+		"match-number": 207,
+		"date": "June 21",
+		"title": "Washington Justice vs. Houston Outlaws",
+		"time": "7 p.m.",
+		"place": "Washington"
+	},
+	{
+		"team1": "N.Y. Excelsior",
+		"team2": "Paris Eternal",
+		"match-number": 208,
+		"date": "June 27",
+		"title": "N.Y. Excelsior vs. Paris Eternal",
+		"time": "4 p.m.",
+		"place": "Boston"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "London Spitfire",
+		"match-number": 209,
+		"date": "June 27",
+		"title": "Boston Uprising vs. London Spitfire",
+		"time": "6 p.m.",
+		"place": "Boston"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "Vancouver Titans",
+		"match-number": 210,
+		"date": "June 27",
+		"title": "L.A. Valiant vs. Vancouver Titans",
+		"time": "5 p.m.",
+		"place": "L.A. Gladiators"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "S.F. Shock",
+		"match-number": 211,
+		"date": "June 27",
+		"title": "L.A. Gladiators vs. S.F. Shock",
+		"time": "7 p.m.",
+		"place": "L.A. Gladiators"
+	},
+	{
+		"team1": "N.Y. Excelsior",
+		"team2": "Toronto Defiant",
+		"match-number": 212,
+		"date": "June 28",
+		"title": "N.Y. Excelsior vs. Toronto Defiant",
+		"time": "4 p.m.",
+		"place": "Boston"
+	},
+	{
+		"team1": "Boston Uprising",
+		"team2": "Paris Eternal",
+		"match-number": 213,
+		"date": "June 28",
+		"title": "Boston Uprising vs. Paris Eternal",
+		"time": "6 p.m.",
+		"place": "Boston"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "Vancouver Titans",
+		"match-number": 214,
+		"date": "June 28",
+		"title": "S.F. Shock vs. Vancouver Titans",
+		"time": "5 p.m.",
+		"place": "L.A. Gladiators"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "L.A. Valiant",
+		"match-number": 215,
+		"date": "June 28",
+		"title": "L.A. Gladiators vs. L.A. Valiant",
+		"time": "7 p.m.",
+		"place": "L.A. Gladiators"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "Boston Uprising",
+		"match-number": 216,
+		"date": "July 4",
+		"title": "Shanghai Dragons vs. Boston Uprising",
+		"time": "3 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "London Spitfire",
+		"match-number": 217,
+		"date": "July 4",
+		"title": "Seoul Dynasty vs. London Spitfire",
+		"time": "5 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "Paris Eternal",
+		"match-number": 218,
+		"date": "July 4",
+		"title": "Guangzhou Charge vs. Paris Eternal",
+		"time": "7 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "Washington Justice",
+		"match-number": 219,
+		"date": "July 4",
+		"title": "S.F. Shock vs. Washington Justice",
+		"time": "3 p.m.",
+		"place": "Vancouver"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "Philadelphia Fusion",
+		"match-number": 220,
+		"date": "July 4",
+		"title": "Dallas Fuel vs. Philadelphia Fusion",
+		"time": "5 p.m.",
+		"place": "Vancouver"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "Atlanta Reign",
+		"match-number": 221,
+		"date": "July 4",
+		"title": "Vancouver Titans vs. Atlanta Reign",
+		"time": "7 p.m.",
+		"place": "Vancouver"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "London Spitfire",
+		"match-number": 222,
+		"date": "July 5",
+		"title": "Chengdu Hunters vs. London Spitfire",
+		"time": "3 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "Toronto Defiant",
+		"match-number": 223,
+		"date": "July 5",
+		"title": "Shanghai Dragons vs. Toronto Defiant",
+		"time": "5 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "Boston Uprising",
+		"match-number": 224,
+		"date": "July 5",
+		"title": "Guangzhou Charge vs. Boston Uprising",
+		"time": "7 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "Washington Justice",
+		"match-number": 225,
+		"date": "July 5",
+		"title": "Dallas Fuel vs. Washington Justice",
+		"time": "2 p.m.",
+		"place": "Vancouver"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "Florida Mayhem",
+		"match-number": 226,
+		"date": "July 5",
+		"title": "S.F. Shock vs. Florida Mayhem",
+		"time": "4 p.m.",
+		"place": "Vancouver"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "Philadelphia Fusion",
+		"match-number": 227,
+		"date": "July 5",
+		"title": "Vancouver Titans vs. Philadelphia Fusion",
+		"time": "6 p.m.",
+		"place": "Vancouver"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "London Spitfire",
+		"match-number": 228,
+		"date": "July 11",
+		"title": "Hangzhou Spark vs. London Spitfire",
+		"time": "3 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "Toronto Defiant",
+		"match-number": 229,
+		"date": "July 11",
+		"title": "Chengdu Hunters vs. Toronto Defiant",
+		"time": "5 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "N.Y. Excelsior",
+		"match-number": 230,
+		"date": "July 11",
+		"title": "Guangzhou Charge vs. N.Y. Excelsior",
+		"time": "7 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "Washington Justice",
+		"match-number": 231,
+		"date": "July 11",
+		"title": "L.A. Gladiators vs. Washington Justice",
+		"time": "1 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "Philadelphia Fusion",
+		"match-number": 232,
+		"date": "July 11",
+		"title": "L.A. Valiant vs. Philadelphia Fusion",
+		"time": "3 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "Houston Outlaws",
+		"match-number": 233,
+		"date": "July 11",
+		"title": "Vancouver Titans vs. Houston Outlaws",
+		"time": "5 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "Atlanta Reign",
+		"match-number": 234,
+		"date": "July 11",
+		"title": "Dallas Fuel vs. Atlanta Reign",
+		"time": "7 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "Paris Eternal",
+		"match-number": 235,
+		"date": "July 12",
+		"title": "Chengdu Hunters vs. Paris Eternal",
+		"time": "3 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "Toronto Defiant",
+		"match-number": 236,
+		"date": "July 12",
+		"title": "Hangzhou Spark vs. Toronto Defiant",
+		"time": "5 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "London Spitfire",
+		"match-number": 237,
+		"date": "July 12",
+		"title": "Guangzhou Charge vs. London Spitfire",
+		"time": "7 p.m.",
+		"place": "Guangzhou"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "Philadelphia Fusion",
+		"match-number": 238,
+		"date": "July 12",
+		"title": "L.A. Gladiators vs. Philadelphia Fusion",
+		"time": "3 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "Atlanta Reign",
+		"match-number": 239,
+		"date": "July 12",
+		"title": "L.A. Valiant vs. Atlanta Reign",
+		"time": "5 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "Houston Outlaws",
+		"match-number": 240,
+		"date": "July 12",
+		"title": "Dallas Fuel vs. Houston Outlaws",
+		"time": "7 p.m.",
+		"place": "Dallas"
+	},
+	{
+		"team1": "Guangzhou Charge",
+		"team2": "Toronto Defiant",
+		"match-number": 241,
+		"date": "July 18",
+		"title": "Guangzhou Charge vs. Toronto Defiant",
+		"time": "1 p.m.",
+		"place": "Shanghai"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "N.Y. Excelsior",
+		"match-number": 242,
+		"date": "July 18",
+		"title": "Seoul Dynasty vs. N.Y. Excelsior",
+		"time": "3 p.m.",
+		"place": "Shanghai"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "Boston Uprising",
+		"match-number": 243,
+		"date": "July 18",
+		"title": "Hangzhou Spark vs. Boston Uprising",
+		"time": "5 p.m.",
+		"place": "Shanghai"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "Paris Eternal",
+		"match-number": 244,
+		"date": "July 18",
+		"title": "Shanghai Dragons vs. Paris Eternal",
+		"time": "7 p.m.",
+		"place": "Shanghai"
+	},
+	{
+		"team1": "Dallas Fuel",
+		"team2": "Florida Mayhem",
+		"match-number": 245,
+		"date": "July 18",
+		"title": "Dallas Fuel vs. Florida Mayhem",
+		"time": "1 p.m.",
+		"place": "S.F. Shock"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "Washington Justice",
+		"match-number": 246,
+		"date": "July 18",
+		"title": "L.A. Valiant vs. Washington Justice",
+		"time": "3 p.m.",
+		"place": "S.F. Shock"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "Houston Outlaws",
+		"match-number": 247,
+		"date": "July 18",
+		"title": "S.F. Shock vs. Houston Outlaws",
+		"time": "5 p.m.",
+		"place": "S.F. Shock"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "Toronto Defiant",
+		"match-number": 248,
+		"date": "July 19",
+		"title": "Seoul Dynasty vs. Toronto Defiant",
+		"time": "3 p.m.",
+		"place": "Shanghai"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "N.Y. Excelsior",
+		"match-number": 249,
+		"date": "July 19",
+		"title": "Hangzhou Spark vs. N.Y. Excelsior",
+		"time": "5 p.m.",
+		"place": "Shanghai"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "London Spitfire",
+		"match-number": 250,
+		"date": "July 19",
+		"title": "Shanghai Dragons vs. London Spitfire",
+		"time": "7 p.m.",
+		"place": "Shanghai"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "Washington Justice",
+		"match-number": 251,
+		"date": "July 19",
+		"title": "Vancouver Titans vs. Washington Justice",
+		"time": "1 p.m.",
+		"place": "S.F. Shock"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "Florida Mayhem",
+		"match-number": 252,
+		"date": "July 19",
+		"title": "L.A. Gladiators vs. Florida Mayhem",
+		"time": "3 p.m.",
+		"place": "S.F. Shock"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "Philadelphia Fusion",
+		"match-number": 253,
+		"date": "July 19",
+		"title": "S.F. Shock vs. Philadelphia Fusion",
+		"time": "5 p.m.",
+		"place": "S.F. Shock"
+	},
+	{
+		"team1": "Hangzhou Spark",
+		"team2": "Paris Eternal",
+		"match-number": 254,
+		"date": "July 25",
+		"title": "Hangzhou Spark vs. Paris Eternal",
+		"time": "3 p.m.",
+		"place": "Chengdu"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "Boston Uprising",
+		"match-number": 255,
+		"date": "July 25",
+		"title": "Seoul Dynasty vs. Boston Uprising",
+		"time": "5 p.m.",
+		"place": "Chengdu"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "N.Y. Excelsior",
+		"match-number": 256,
+		"date": "July 25",
+		"title": "Chengdu Hunters vs. N.Y. Excelsior",
+		"time": "7 p.m.",
+		"place": "Chengdu"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "Florida Mayhem",
+		"match-number": 257,
+		"date": "July 25",
+		"title": "L.A. Valiant vs. Florida Mayhem",
+		"time": "5 p.m.",
+		"place": "L.A. Gladiators"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "Atlanta Reign",
+		"match-number": 258,
+		"date": "July 25",
+		"title": "S.F. Shock vs. Atlanta Reign",
+		"time": "7 p.m.",
+		"place": "L.A. Gladiators"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "Houston Outlaws",
+		"match-number": 259,
+		"date": "July 25",
+		"title": "L.A. Gladiators vs. Houston Outlaws",
+		"time": "9 p.m.",
+		"place": "L.A. Gladiators"
+	},
+	{
+		"team1": "Seoul Dynasty",
+		"team2": "Paris Eternal",
+		"match-number": 260,
+		"date": "July 26",
+		"title": "Seoul Dynasty vs. Paris Eternal",
+		"time": "3 p.m.",
+		"place": "Chengdu"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "N.Y. Excelsior",
+		"match-number": 261,
+		"date": "July 26",
+		"title": "Shanghai Dragons vs. N.Y. Excelsior",
+		"time": "5 p.m.",
+		"place": "Chengdu"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "Boston Uprising",
+		"match-number": 262,
+		"date": "July 26",
+		"title": "Chengdu Hunters vs. Boston Uprising",
+		"time": "7 p.m.",
+		"place": "Chengdu"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "Houston Outlaws",
+		"match-number": 263,
+		"date": "July 26",
+		"title": "L.A. Valiant vs. Houston Outlaws",
+		"time": "5 p.m.",
+		"place": "L.A. Gladiators"
+	},
+	{
+		"team1": "Vancouver Titans",
+		"team2": "Florida Mayhem",
+		"match-number": 264,
+		"date": "July 26",
+		"title": "Vancouver Titans vs. Florida Mayhem",
+		"time": "7 p.m.",
+		"place": "L.A. Gladiators"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "Atlanta Reign",
+		"match-number": 265,
+		"date": "July 26",
+		"title": "L.A. Gladiators vs. Atlanta Reign",
+		"time": "9 p.m.",
+		"place": "L.A. Gladiators"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "Hangzhou Spark",
+		"match-number": 266,
+		"date": "Aug. 1",
+		"title": "Shanghai Dragons vs. Hangzhou Spark",
+		"time": "3 p.m.",
+		"place": "Chengdu"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "Guangzhou Charge",
+		"match-number": 267,
+		"date": "Aug. 1",
+		"title": "Chengdu Hunters vs. Guangzhou Charge",
+		"time": "5 p.m.",
+		"place": "Chengdu"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "Atlanta Reign",
+		"match-number": 268,
+		"date": "Aug. 1",
+		"title": "Florida Mayhem vs. Atlanta Reign",
+		"time": "4 p.m.",
+		"place": "Houston"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "Philadelphia Fusion",
+		"match-number": 269,
+		"date": "Aug. 1",
+		"title": "Houston Outlaws vs. Philadelphia Fusion",
+		"time": "6 p.m.",
+		"place": "Houston"
+	},
+	{
+		"team1": "Shanghai Dragons",
+		"team2": "Guangzhou Charge",
+		"match-number": 270,
+		"date": "Aug. 2",
+		"title": "Shanghai Dragons vs. Guangzhou Charge",
+		"time": "3 p.m.",
+		"place": "Chengdu"
+	},
+	{
+		"team1": "Chengdu Hunters",
+		"team2": "Hangzhou Spark",
+		"match-number": 271,
+		"date": "Aug. 2",
+		"title": "Chengdu Hunters vs. Hangzhou Spark",
+		"time": "5 p.m.",
+		"place": "Chengdu"
+	},
+	{
+		"team1": "Florida Mayhem",
+		"team2": "Washington Justice",
+		"match-number": 272,
+		"date": "Aug. 2",
+		"title": "Florida Mayhem vs. Washington Justice",
+		"time": "4 p.m.",
+		"place": "Houston"
+	},
+	{
+		"team1": "Houston Outlaws",
+		"team2": "Atlanta Reign",
+		"match-number": 273,
+		"date": "Aug. 2",
+		"title": "Houston Outlaws vs. Atlanta Reign",
+		"time": "6 p.m.",
+		"place": "Houston"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "Boston Uprising",
+		"match-number": 274,
+		"date": "Aug. 8",
+		"title": "London Spitfire vs. Boston Uprising",
+		"time": "4 p.m.",
+		"place": "Toronto"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "N.Y. Excelsior",
+		"match-number": 275,
+		"date": "Aug. 8",
+		"title": "Toronto Defiant vs. N.Y. Excelsior",
+		"time": "6 p.m.",
+		"place": "Toronto"
+	},
+	{
+		"team1": "L.A. Gladiators",
+		"team2": "Vancouver Titans",
+		"match-number": 276,
+		"date": "Aug. 8",
+		"title": "L.A. Gladiators vs. Vancouver Titans",
+		"time": "5 p.m.",
+		"place": "L.A. Valiant"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "Dallas Fuel",
+		"match-number": 277,
+		"date": "Aug. 8",
+		"title": "L.A. Valiant vs. Dallas Fuel",
+		"time": "7 p.m.",
+		"place": "L.A. Valiant"
+	},
+	{
+		"team1": "London Spitfire",
+		"team2": "N.Y. Excelsior",
+		"match-number": 278,
+		"date": "Aug. 9",
+		"title": "London Spitfire vs. N.Y. Excelsior",
+		"time": "4 p.m.",
+		"place": "Toronto"
+	},
+	{
+		"team1": "Toronto Defiant",
+		"team2": "Paris Eternal",
+		"match-number": 279,
+		"date": "Aug. 9",
+		"title": "Toronto Defiant vs. Paris Eternal",
+		"time": "6 p.m.",
+		"place": "Toronto"
+	},
+	{
+		"team1": "L.A. Valiant",
+		"team2": "L.A. Gladiators",
+		"match-number": 280,
+		"date": "Aug. 9",
+		"title": "L.A. Valiant vs. L.A. Gladiators",
+		"time": "5 p.m.",
+		"place": "L.A. Valiant"
+	},
+	{
+		"team1": "S.F. Shock",
+		"team2": "Dallas Fuel",
+		"match-number": 281,
+		"date": "Aug. 9",
+		"title": "S.F. Shock vs. Dallas Fuel",
+		"time": "7 p.m.",
+		"place": "L.A. Valiant"
+	}
+]
